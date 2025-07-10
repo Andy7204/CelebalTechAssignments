@@ -5,3 +5,6 @@ scikit-learn
 joblib
 matplotlib
 shap
+ipython
+ipywidgets
+streamlit-aggrid
